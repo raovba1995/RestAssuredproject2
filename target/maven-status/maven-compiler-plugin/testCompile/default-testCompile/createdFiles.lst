@@ -1,0 +1,13 @@
+restAPI\PostRequest.class
+restAPIXML\XMLExample.class
+restAPI\GetRequest.class
+restAPI\PutRequest.class
+apiChaining\ChainingExample.class
+restAPI\PostRequestWithMap.class
+restAPI\PutRequestWithParamters.class
+apiAuth\BearerTokenExample.class
+restAPI\GetRequestWithQueryParams.class
+apiAuth\BasicAuthExample.class
+restAPI\DeleteRequest.class
+restAPI\GetReqWithParameters.class
+restAPI\PostRequestWithFile.class
